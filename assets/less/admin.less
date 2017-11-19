@@ -1,0 +1,46 @@
+.settings_page_dw_promobar {   
+	.hide {
+		display: none;
+	}
+
+	select {
+		width: 25em;
+	}
+
+	#dwpb {
+		top: 0;
+		z-index: 999999;
+	}
+
+	.dwpb-action,
+	.dwpb-close {
+		top: 5px;
+		background: transparent !important;
+
+		&:before {
+			content: '\f343';
+		}		
+	}
+
+	#dwpb.ramain-top {
+		position: fixed;
+	}
+
+	.wp-picker-holder {
+		position: absolute;
+		z-index: 9999;
+	}
+
+	.submit {
+		float: left;
+		margin-right: 10px;
+	}
+
+	.ajax-load {
+		padding-left: 5px; 
+
+		img, span {
+			display: none;
+		}
+	}
+}
