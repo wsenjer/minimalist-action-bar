@@ -1,14 +1,18 @@
-=== DW Promobar ===
-Contributors: DesignWall
+=== Minimalist Action Bar ===
+Contributors: DesignWall, waseem_senjer
 Tags: promotion ,topbar, header bar, quick notice, bar, notification bar, countdown, responsive
-Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.0.4
+Requires at least: 4.0
+Tested up to: 4.9
+Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 A clean and simple WordPress plugin that allows you to have a promotion and message bar displayed at the top of your site. You can have a meaningful message or simply a catchy message for your promotion within a few simple setup. You can even have a countdown clock. All these features can be easily configured in the admin panel. You have a control over the entire bar from text message, countdown time to text and link colors.
+
+== Credits ==
+This plugin is a fork from: https://wordpress.org/plugins/dw-promobar/
+
 
 == Installation ==
 
