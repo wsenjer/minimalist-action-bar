@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: DW PromoBar
-Plugin URI: 
-Description:  Custom promotion bar for your wordpress site.
-Version: 1.0.4
-Author: DesignWall
-Author URI: http://www.designwall.com
+Plugin Name: Minimalist Action Bar
+Plugin URI: https://wpruby.com
+Description:  Minimalist promotion bar for your wordpress site.
+Version: 1.0.0
+Author: WPRuby
+Author URI: https://wpruby.com
 */
 
 if ( ! function_exists('dwpb')) {
